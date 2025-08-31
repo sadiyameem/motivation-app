@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #e0b0ff;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    background: #fff5e1;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(#7b2cbf);
+    color: white;
+    transition: 0.3s ease, transform 0.2s ease;
+}
+
+.quote-container {
+    position: relative;
+    text-align: center;
+    background: #f5e6fa;
+    display: inline-block;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#quote {
+    font-size: 18px;
+    font-style: italic;
+    color: black;
+    opacity: 1;
+    transition: opacity 0.6s ease;
+}
+
+
