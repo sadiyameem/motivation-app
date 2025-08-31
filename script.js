@@ -1,12 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
     const quotes = [
         "Believe in yourself; you're the only one who can.",
-        "What feels impossible can beocme possible.",
+        "What feels impossible can becomes possible.",
         "Push yourself, because no one else is going to do it for you.",
         "Great things will always come your way if you believe.",
         "Dream it. Wish it, Do it.",
         "All you have to do is try.",
-        "Positive thoughts creates a positive life.",
+        "Positive thoughts create a positive life.",
         "Happeness is a choice-choose to see the good in life.",
     ];
 
